@@ -1,10 +1,10 @@
 <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Syed+Ali+Rizwan!;I+am+a+CS+Undergraduate+Freshman!" alt="Typing SVG" /></a></center>
 
 - 🕦 Studying Computer Science
-- 🔭 I’m currently exploring Data Science, App Development, and Machine Learning
+- 🔭 I’m currently exploring Data Science and Machine Learning
 - 🌱 I’m currently learning C++
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<alirizwan2003@gmail.com>) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ali-rizwan-6b3856231/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<alirizwan2003@gmail.com>) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedalirizwann/)
 
 ### Technology Stack:
 
@@ -63,7 +63,7 @@
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzn1337&theme=panda&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzn1337&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+| ![alt_text](https://github-readme-stats.vercel.app/api?username=rzn1337&theme=panda&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzn1337&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ----
